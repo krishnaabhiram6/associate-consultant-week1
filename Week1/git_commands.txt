@@ -1,0 +1,43 @@
+Git Commands Learned
+
+1. git init
+   - Initialize a new Git repository.
+
+2. git status
+   - Check the current status of files and changes.
+
+3. git add .
+   - Stage all modified and new files for the next commit.
+
+4. git commit -m "message"
+   - Create a snapshot of the staged changes.
+
+5. git log --oneline
+   - View commit history in a compact format.
+
+6. git branch
+   - List all branches in the repository.
+
+7. git branch feature_notes
+   - Create a new branch named feature_notes.
+
+8. git checkout feature_notes
+   - Switch to the feature_notes branch.
+
+9. git checkout main
+   - Switch back to the main branch.
+
+10. git push
+    - Upload local commits to GitHub.
+
+11. git pull
+    - Download the latest changes from GitHub.
+
+12. git push --set-upstream origin feature_notes
+    - Push a new branch to GitHub and connect it to the remote branch.
+
+13. git merge
+    - Combine changes from one branch into another.
+
+14. Pull Request (PR)
+    - Request to merge changes from one branch into another through GitHub.
