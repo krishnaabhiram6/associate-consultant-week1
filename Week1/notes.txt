@@ -1,0 +1,7 @@
+Git Fundamentals
+
+Commit:
+A commit is a snapshot of the project.
+
+Branch:
+A branch is a separate line of development.
